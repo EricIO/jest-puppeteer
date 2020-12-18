@@ -1,7 +1,7 @@
 {
   "name": "@tephra/jest-puppeteer-preset",
   "description": "Run your tests using Jest & Puppeteer.",
-  "version": "4.6.0",
+  "version": "4.6.1",
   "main": "lib/index.js",
   "repository": "https://github.com/EricIO/jest-puppeteer/tree/master/packages/jest-puppeteer-preset",
   "author": "Greg Bergé <berge.greg@gmail.com>",
