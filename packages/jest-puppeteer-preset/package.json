@@ -2,7 +2,6 @@
   "name": "@tephra/jest-puppeteer-preset",
   "description": "Run your tests using Jest & Puppeteer.",
   "version": "4.6.4",
-  "private": false,
   "main": "lib/index.js",
   "repository": "https://github.com/EricIO/jest-puppeteer/tree/master/packages/jest-puppeteer-preset",
   "author": "Greg Bergé <berge.greg@gmail.com>",
@@ -20,6 +19,8 @@
   "dependencies": {
     "@tephra/expect-puppeteer": "^4.6.4",
     "@tephra/jest-environment-puppeteer": "^4.6.4"
+  }, "publishConfig": {
+    "access": "public"
   },
-  "gitHead": "ac5354397923077d4553c640635f1efbbde38300"
+  "gitHead": "a17b3318320fe712fada4d56d243beedc0068409"
 }

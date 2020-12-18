@@ -1,6 +1,5 @@
 {
   "name": "@tephra/expect-puppeteer",
-  "private": false,
   "description": "Assertion toolkit for Puppeteer.",
   "version": "4.6.4",
   "main": "lib/index.js",
@@ -24,5 +23,8 @@
     "dev": "yarn build --watch",
     "prepublishOnly": "yarn build"
   },
-  "gitHead": "ac5354397923077d4553c640635f1efbbde38300"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "a17b3318320fe712fada4d56d243beedc0068409"
 }
