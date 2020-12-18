@@ -2,7 +2,7 @@
   "name": "@tephra/expect-puppeteer",
   "private": false,
   "description": "Assertion toolkit for Puppeteer.",
-  "version": "4.6.3",
+  "version": "4.6.4",
   "main": "lib/index.js",
   "repository": "https://github.com/EricIO/jest-puppeteer/tree/master/packages/expect-puppeteer",
   "author": "Greg Bergé <berge.greg@gmail.com>",
