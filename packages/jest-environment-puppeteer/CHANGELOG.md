@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [4.6.0](https://github.com/EricIO/jest-puppeteer/tree/master/packages/jest-environment-puppeteer/compare/v4.4.0...v4.6.0) (2020-12-18)
+
+
+### Bug Fixes
+
+* require  to `puppeteer-core` as fallback ([#315](https://github.com/EricIO/jest-puppeteer/tree/master/packages/jest-environment-puppeteer/issues/315)) ([49d313c](https://github.com/EricIO/jest-puppeteer/tree/master/packages/jest-environment-puppeteer/commit/49d313c367812541251c4376162d1e222a96fdc0))
+
+
+
+
+
 # [4.4.0](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/jest-environment-puppeteer/compare/v4.3.0...v4.4.0) (2019-12-18)
 
 

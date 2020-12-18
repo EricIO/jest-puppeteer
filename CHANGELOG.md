@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [4.6.0](https://github.com/EricIO/jest-puppeteer/compare/v4.4.0...v4.6.0) (2020-12-18)
+
+
+### Bug Fixes
+
+* require  to `puppeteer-core` as fallback ([#315](https://github.com/EricIO/jest-puppeteer/issues/315)) ([49d313c](https://github.com/EricIO/jest-puppeteer/commit/49d313c367812541251c4376162d1e222a96fdc0))
+
+
+### Features
+
+* support XPATH selectors ([#321](https://github.com/EricIO/jest-puppeteer/issues/321)) ([949027b](https://github.com/EricIO/jest-puppeteer/commit/949027b1332e270fad78eda10fd1a92c56abe1b5))
+
+
+
+
+
 # [4.4.0](https://github.com/smooth-code/jest-puppeteer/compare/v4.3.0...v4.4.0) (2019-12-18)
 
 

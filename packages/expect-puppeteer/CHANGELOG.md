@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [4.6.0](https://github.com/EricIO/jest-puppeteer/tree/master/packages/expect-puppeteer/compare/v4.4.0...v4.6.0) (2020-12-18)
+
+
+### Features
+
+* support XPATH selectors ([#321](https://github.com/EricIO/jest-puppeteer/tree/master/packages/expect-puppeteer/issues/321)) ([949027b](https://github.com/EricIO/jest-puppeteer/tree/master/packages/expect-puppeteer/commit/949027b1332e270fad78eda10fd1a92c56abe1b5))
+
+
+
+
+
 # [4.4.0](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/expect-puppeteer/compare/v4.3.0...v4.4.0) (2019-12-18)
 
 
