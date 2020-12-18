@@ -4,7 +4,7 @@ import {
   teardown as teardownServer,
   ERROR_TIMEOUT,
   ERROR_NO_COMMAND,
-} from 'jest-dev-server'
+} from '@tephra/jest-dev-server'
 import chalk from 'chalk'
 import { readConfig, getPuppeteer } from './readConfig'
 

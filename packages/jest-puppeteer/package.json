@@ -1,8 +1,8 @@
 {
-  "name": "jest-puppeteer",
+  "name": "@tephra/jest-puppeteer",
   "description": "Run your tests using Jest & Puppeteer.",
-  "version": "4.4.0",
-  "repository": "https://github.com/smooth-code/jest-puppeteer/tree/master/packages/jest-puppeteer",
+  "version": "4.5.0",
+  "repository": "https://github.com/EricIO/jest-puppeteer/tree/master/packages/jest-puppeteer",
   "author": "Greg Bergé <berge.greg@gmail.com>",
   "license": "MIT",
   "keywords": [
@@ -13,10 +13,10 @@
     "chrome-headless"
   ],
   "peerDependencies": {
-    "puppeteer": ">= 1.5.0 < 3"
+    "puppeteer": ">= 1.5.0 < 6"
   },
   "dependencies": {
-    "expect-puppeteer": "^4.4.0",
-    "jest-environment-puppeteer": "^4.4.0"
+    "@tephra/expect-puppeteer": "^4.4.0",
+    "@tephra/jest-environment-puppeteer": "^4.4.0"
   }
 }
