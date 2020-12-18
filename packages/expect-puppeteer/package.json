@@ -24,5 +24,5 @@
     "dev": "yarn build --watch",
     "prepublishOnly": "yarn build"
   },
-  "gitHead": "c540ecfa3e11b167b03e849dd71dc86d87e97ad5"
+  "gitHead": "ac5354397923077d4553c640635f1efbbde38300"
 }
