@@ -2,6 +2,7 @@
   "name": "@tephra/jest-environment-puppeteer",
   "description": "Puppeteer environment for Jest.",
   "version": "4.6.2",
+  "private": false,
   "main": "index.js",
   "repository": "https://github.com/EricIO/jest-puppeteer/tree/master/packages/jest-environment-puppeteer",
   "author": "Greg Bergé <berge.greg@gmail.com>",
@@ -25,5 +26,6 @@
     "chalk": "^3.0.0",
     "cwd": "^0.10.0",
     "merge-deep": "^3.0.2"
-  }
+  },
+  "gitHead": "c540ecfa3e11b167b03e849dd71dc86d87e97ad5"
 }

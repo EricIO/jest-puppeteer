@@ -2,6 +2,7 @@
   "name": "@tephra/jest-dev-server",
   "description": "Starts a server before your Jest tests and tears it down after.",
   "version": "4.6.2",
+  "private": false,
   "main": "index.js",
   "repository": "https://github.com/EricIO/jest-puppeteer/tree/master/packages/jest-dev-server",
   "author": "Greg Bergé <berge.greg@gmail.com>",
@@ -25,5 +26,6 @@
     "spawnd": "^4.4.0",
     "tree-kill": "^1.2.2",
     "wait-on": "^4.0.0"
-  }
+  },
+  "gitHead": "c540ecfa3e11b167b03e849dd71dc86d87e97ad5"
 }
